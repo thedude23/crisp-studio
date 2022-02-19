@@ -1,2 +1,2 @@
 # crisp-studio
-Website template
+Website template, made in HTML, (S)CSS and JS
